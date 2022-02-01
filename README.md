@@ -33,6 +33,8 @@ ___________
 - [📕 Refactoring: Improving the Design of Existing Code - Martin Fowler, Kent Beck](https://www.goodreads.com/book/show/44936.Refactoring)
 - [📕 Working Effectively with Legacy Code - Michael C. Feathers](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code)
 - [📕 Your Code as a Crime Scene: Use Forensic Techniques to Arrest Defects ... - Adam Tornhill](https://www.goodreads.com/book/show/23627482-your-code-as-a-crime-scene)
+- [📕 Software Design X-Rays: Fix Technical Debt with Behavioral Code Analysis - Adam Tornhill](https://www.goodreads.com/book/show/36517037-software-design-x-rays)
+- [📕 The Mikado Method - Ola Ellnestam, Daniel Brolund](https://www.goodreads.com/book/show/17974534-the-mikado-method)
 
 *linki powinny prowadzić do Goodreads*
 
