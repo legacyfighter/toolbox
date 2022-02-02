@@ -38,6 +38,11 @@ ___________
 
 *linki powinny prowadzić do Goodreads*
 
+### Artykuły
+____________
+
+- [Working Effectively With Legacy Code - Michael C. Feathers](https://debug.to/pdf/Michael%20Feathers%20-%20Working%20Effectively%20With%20Legacy%20Code.pdf)
+
 ### Narzędzia
 _____________
 
