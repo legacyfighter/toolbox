@@ -5,6 +5,7 @@ Repozytorium dodatków do skrzynki narzędziowej LF. Znajdują się tu:
 * [użyteczne one linery](#użyteczne-one-linery)
 * [książki](#książki)
 * [artykuły](#artykuły)
+* [blogi](#blogi)
 * [narzędzia](#narzędzia)
 
 
