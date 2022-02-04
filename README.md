@@ -52,4 +52,5 @@ ____________
 ### Narzędzia
 _____________
 
-To be introduced...
+- [🛠 Code Maat - a command line tool used to mine and analyze data from version-control systems (VCS)](https://github.com/adamtornhill/code-maat#running-code-maat)
+
