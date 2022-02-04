@@ -60,5 +60,5 @@ _____________
 
 ##### Wyświetlenie drzewa hierarchii wywołania
 
-Idea: <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>H</kbd>
+Idea: https://www.jetbrains.com/help/idea/viewing-structure-and-hierarchy-of-the-source-code.html
 
