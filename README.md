@@ -46,6 +46,7 @@ ____________
 - [Working Effectively With Legacy Code - Michael C. Feathers](https://debug.to/pdf/Michael%20Feathers%20-%20Working%20Effectively%20With%20Legacy%20Code.pdf)
 
 ### Blogi
+_________
 
 - [Understand Legacy Code](https://understandlegacycode.com/)
 
