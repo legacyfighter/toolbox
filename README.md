@@ -7,6 +7,7 @@ Repozytorium dodatków do skrzynki narzędziowej LF. Znajdują się tu:
 * [artykuły](#artykuły)
 * [blogi](#blogi)
 * [narzędzia](#narzędzia)
+* [skróty](#skróty)
 
 
 ### Użyteczne one-linery
@@ -54,4 +55,10 @@ _________
 _____________
 
 - [🛠 Code Maat - a command line tool used to mine and analyze data from version-control systems (VCS)](https://github.com/adamtornhill/code-maat#running-code-maat)
+
+### Skróty
+
+##### Wyświetlenie drzewa hierarchii wywołania
+
+Idea: <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>H</kbd>
 
