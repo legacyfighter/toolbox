@@ -22,12 +22,12 @@ git log --pretty=format: --name-only | sort | uniq -c | sort -rg | head -10
 
 ##### Korona Himalajów, 14 najdłuższych plików w projekcie
 ```bash
-find . -name '*.java' -not -path "*/target/*" -not -path '*/build/*' | xargs wc -l | sort -nr | head -n14
+find . -name '*.java' -not -path "*/target/*" -not -path "*/build/*" | xargs wc -l | sort -nr | head -n14
 ```
 
 ##### Lista wszystkich plików w projekcie, które mają więcej niż 500 linii
 ```bash
-find . -name '*.java' -not -path "*/target/*" -not -path '*/build/*' | xargs wc -l | sort -nr | awk '$1 > 500'
+find . -name '*.java' -not -path "*/target/*" -not -path "*/build/*" | xargs wc -l | sort -nr | awk '$1 > 500'
 ```
 
 ### Książki
