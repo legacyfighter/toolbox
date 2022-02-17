@@ -38,6 +38,7 @@ ___________
 - [📕 Your Code as a Crime Scene: Use Forensic Techniques to Arrest Defects ... - Adam Tornhill](https://www.goodreads.com/book/show/23627482-your-code-as-a-crime-scene)
 - [📕 Software Design X-Rays: Fix Technical Debt with Behavioral Code Analysis - Adam Tornhill](https://www.goodreads.com/book/show/36517037-software-design-x-rays)
 - [📕 The Mikado Method - Ola Ellnestam, Daniel Brolund](https://www.goodreads.com/book/show/17974534-the-mikado-method)
+- [📕 xUnit Test Patterns: Refactoring Test Code - Gerard Meszaros](https://www.goodreads.com/book/show/337302.xUnit_Test_Patterns)
 
 *linki powinny prowadzić do Goodreads*
 
