@@ -39,6 +39,9 @@ ___________
 - [📕 Software Design X-Rays: Fix Technical Debt with Behavioral Code Analysis - Adam Tornhill](https://www.goodreads.com/book/show/36517037-software-design-x-rays)
 - [📕 The Mikado Method - Ola Ellnestam, Daniel Brolund](https://www.goodreads.com/book/show/17974534-the-mikado-method)
 - [📕 xUnit Test Patterns: Refactoring Test Code - Gerard Meszaros](https://www.goodreads.com/book/show/337302.xUnit_Test_Patterns)
+- [📕 Refactoring Databases: Evolutionary Database Design - Scott W. Ambler, Pramod J. Sadalage](https://www.goodreads.com/book/show/161302.Refactoring_Databases)
+- [📕 Practical Guide to Large Database Migration - Preston Zhang](https://www.goodreads.com/book/show/42818341-practical-guide-to-large-database-migration)
+- [📕 Practical Data Migration- Johny Morris](https://www.goodreads.com/book/show/16654923-practical-data-migration)
 
 *linki powinny prowadzić do Goodreads*
 
