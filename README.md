@@ -30,6 +30,11 @@ find . -name '*.java' -not -path "*/target/*" -not -path "*/build/*" | xargs wc 
 find . -name '*.java' -not -path "*/target/*" -not -path "*/build/*" | xargs wc -l | sort -nr | awk '$1 > 500'
 ```
 
+##### Liczba commitów w zadanym okresie z pominięciem merge commitów
+```bash
+git rev-list --count --since="Jan 31 2022"  --before="Feb 5 2022" --all --no-merges
+```
+
 ### Książki
 ___________
 
