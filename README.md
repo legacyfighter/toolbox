@@ -47,6 +47,12 @@ ___________
 - [📕 Refactoring Databases: Evolutionary Database Design - Scott W. Ambler, Pramod J. Sadalage](https://www.goodreads.com/book/show/161302.Refactoring_Databases)
 - [📕 Practical Guide to Large Database Migration - Preston Zhang](https://www.goodreads.com/book/show/42818341-practical-guide-to-large-database-migration)
 - [📕 Practical Data Migration- Johny Morris](https://www.goodreads.com/book/show/16654923-practical-data-migration)
+- [📕 Enterprise Patterns and MDA: Building Better Software with Archetype Patterns and UML - Jim Arlow](https://www.goodreads.com/book/show/434826.Enterprise_Patterns_and_MDA)
+- [📕 Analysis Patterns: Reusable Object Models - Martin Fowler](https://www.goodreads.com/book/show/85002.Analysis_Patterns)
+- [📕 The Data Model Resource Book, Volume 1: A Library of Universal Data Models for All Enterprises - Len Silverston](https://www.goodreads.com/book/show/813795.The_Data_Model_Resource_Book_Volume_1)
+- [📕 The Data Model Resource Book, Volume 2: A Library of Universal Data Models by Industry Types - Len Silverston](https://www.goodreads.com/book/show/1518211.The_Data_Model_Resource_Book_Volume_2)
+- [📕 The Data Model Resource Book: Volume 3: Universal Patterns for Data Modeling - Len Silverston, Paul Agnew](https://www.goodreads.com/book/show/5128873-the-data-model-resource-book)
+- [📕 Data Model Patterns - David C. Hay](https://www.goodreads.com/book/show/981057.Data_Model_Patterns)
 
 *linki powinny prowadzić do Goodreads*
 
