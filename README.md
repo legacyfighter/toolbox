@@ -7,6 +7,7 @@ Repozytorium dodatków do skrzynki narzędziowej LF. Znajdują się tu:
 * [artykuły](#artykuły)
 * [blogi](#blogi)
 * [narzędzia](#narzędzia)
+* [kata refaktoryzacyjne](#kata-refaktoryzacyjne)
 * [skróty](#skróty)
 
 
@@ -71,7 +72,18 @@ _____________
 
 - [🛠 Code Maat - a command line tool used to mine and analyze data from version-control systems (VCS)](https://github.com/adamtornhill/code-maat#running-code-maat)
 
+### Kata refaktoryzacyjne
+_________________________
+
+- [🥷 GildedRose Refactoring Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata) z repozytorium https://github.com/emilybache
+- [🥷 Tennis Refactoring Kata](https://github.com/emilybache/Tennis-Refactoring-Kata) z repozytorium https://github.com/emilybache
+- [🥷 Parrot Refactoring Kata](https://github.com/emilybache/Parrot-Refactoring-Kata) z repozytorium https://github.com/emilybache
+- [🥷 SupermarketReceipt Refactoring Kata](https://github.com/emilybache/SupermarketReceipt-Refactoring-Kata) z repozytorium https://github.com/emilybache
+- [🥷 Theatrical Players Refactoring Kata](https://github.com/emilybache/Theatrical-Players-Refactoring-Kata) z repozytorium https://github.com/emilybache
+- [🥷 Yatzy Refactoring Kata](https://github.com/emilybache/Yatzy-Refactoring-Kata) z repozytorium https://github.com/emilybache
+
 ### Skróty
+__________
 
 ##### Wyświetlenie drzewa hierarchii wywołania
 
